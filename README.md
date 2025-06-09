@@ -60,5 +60,6 @@ Simulates natural selection to solve optimization problems.
    - **Travelling Salesman Problem (TSP)**
    Optimizes the shortest possible route for a salesman to visit all cities once and return to the starting point.
 
-
+4. **MYCIN Expert System**
+   Technical Report writing on [MYCIN](https://en.wikipedia.org/wiki/Mycin) Expert System
 
